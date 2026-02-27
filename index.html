@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaspar Castro</title>
+    <link rel="icon" href="images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Gaspar Castro</h1>
+            <h3>IT Support & Hardware Technician</h3>
+            <h4>Practical solutions. Reliable systems</h4>
+            <button onclick="location.href='https://wa.me/+598092401809'" class="btn">Contact Me</button>  
+            <button onclick="location.href='images/cv.pdf'" class="btn">Download CV</button> 
+        </div>
+    </section>
+
+    <main>
+        <section id="about">
+            <h1>About Me</h1>
+            <p>IT Support technician focused on hardware maintenance, system optimization and practical troubleshooting.
+            <br>Experienced in diagnosing and repairing computer systems with a strong interest in continuous technical improvement.
+            </p>
+        </section>
+        <section id="skills">
+            <h1>Skills</h1>
+            <ul>
+                <h2>Technical Skills</h2>
+                    <li>PC Assembly</li>
+                    <li>Hardware Troubleshooting</li>
+                    <li>Windows Installation</li>
+                    <li>Preventive Maintenance</li>
+                    <li>Basic Networking</li>
+                </h2>
+                <h2>Programming</h2>
+                    <li>Java</li>
+                    <li>HTML/CSS</li>
+                    <li>JavaScript</li>
+                    <li>PHP</li>
+                    <li>Pascal</li>
+                <h2>Extra Tools</h2>
+                    <li>Adobe Photoshop</li>
+                    <li>Sony VEGAS Pro</li>
+            </ul>
+        </section>
+        <section id="projects">
+            <h2>Featured Project</h2>
+            <a href="https://gasparcastro.github.io/anniversary/">Custom Anniversary Interactive Platform (Concept Version for Mobile)</a>
+        </section>
+        <section id="experience">
+            <h2>Independent IT Support</h2>
+            <ul>
+                <li>Computer diagnostics and repair</li>
+                <li>System optimization and maintenance</li>
+                <li>Hardware upgrades and cleaning</li>
+                <li>OS installation and configuration</li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Formation</h2>
+            <ul>
+                <h3>Instituto Tecnológico Superior “Arias Balparda”</h3>
+                <h4>Technical Support in Information Technology</h4>
+                <h4>Montevideo, Uruguay</h4>
+                <h4>2025 -  In progress</h4>
+                <h3>Escuela Superior de Informatica</h3>
+                <h4>EMT Informática</h4>
+                <h4>Montevideo, Uruguay</h4>
+                <h4>2021 - 2022</h4>
+                <h3>Facultad de Ingeniería - UDELAR</h3>
+                <h4>Ingeniería en Sistemas</h4>
+                <h4>Montevideo, Uruguay</h4>
+                <h4>2025 - In progress</h4>
+            </ul>
+        </section>
+        <section id="cta">
+            <h2>Let’s Work Together</h2>
+            <p>Open to on-site and remote technical support roles. 
+            <br>Let’s build reliable systems together.</p>
+            <button onclick="location.href='https://wa.me/+598092401809'" class="btn">Contact Me</button>
+        </section>
+    </main>
+</body>
+</html>
+
+</html>
